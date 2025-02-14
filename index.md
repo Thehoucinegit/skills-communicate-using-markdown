@@ -6,3 +6,8 @@ print("something is not good")
 Hahya wahed tswira jamila : 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+
+You can even add some code:
+```js
+var myVar = "Hello, world!";
+```
